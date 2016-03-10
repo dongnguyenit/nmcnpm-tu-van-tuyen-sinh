@@ -10,6 +10,8 @@ namespace tu_van_tuyen_sinh
     {
         static void Main(string[] args)
         {
+            int a = 0;
+            a = a + 1;
         }
     }
 }
