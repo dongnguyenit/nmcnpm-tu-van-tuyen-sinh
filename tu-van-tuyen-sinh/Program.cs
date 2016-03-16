@@ -12,8 +12,10 @@ namespace tu_van_tuyen_sinh
         {
             int a = 0;
             a = a + 1;
-            string name;
+            string name;//ddd
             //show name bests
+           //laksjdfkja;dsjkf
+            for(int ii)
         }
     }
 }
